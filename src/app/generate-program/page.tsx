@@ -155,7 +155,7 @@ const GenerateProgramPage = () => {
             <span className="text-primary uppercase" style={{ color: "LightSkyBlue" }}>Fitness Program</span>
           </h1>
           <p className="text-muted-foreground mt-2">
-            Have a voice conversation with the AI assistant to create your personalized plan. Click "Start Call"
+            Have a voice conversation with the AI assistant to create your personalized plan. Click Click &quot;Start Call&quot;
           </p>
         </div>
 
