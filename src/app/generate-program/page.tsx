@@ -151,11 +151,11 @@ const GenerateProgramPage = () => {
         {/* Title */}
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold font-mono">
-            <span>Let's Generate Your </span>
+            <span>Generate Your </span>
             <span className="text-primary uppercase" style={{ color: "LightSkyBlue" }}>Fitness Program</span>
           </h1>
           <p className="text-muted-foreground mt-2">
-            Have a voice conversation with the AI assistant to create your personalized plan. Click Click &quot;Start Call&quot;
+            Have a voice conversation with the AI assistant to create your personalized plan. Click &quot;Start Call&quot;
           </p>
         </div>
 
