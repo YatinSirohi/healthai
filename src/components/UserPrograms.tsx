@@ -10,25 +10,6 @@ const UserPrograms = () => {
       <div className="container mx-auto max-w-6xl px-4">
         {/* HEADER- PROGRAM GALLERY */}
         <div className="bg-card/90 backdrop-blur-sm border border-border rounded-lg overflow-hidden mb-16">
-          {/* HEADER BAR */}
-          <div className="flex items-center justify-between px-5 py-3 border-b border-border bg-background/70">
-            <div className="flex items-center gap-2">
-              <div className="w-2.5 h-2.5 rounded-full bg-primary"></div>
-              <span className="text-sm text-primary font-medium" style={{ color: "LightSkyBlue" }}>Program Gallery</span>
-            </div>
-          </div>
-
-          {/* HEADER CONTENT */}
-          <div className="p-8 text-center">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6">
-              <span className="text-foreground">AI-Generated </span>
-              <span className="text-primary" style={{ color: "LightSkyBlue" }}>Programs</span>
-            </h2>
-
-            <p className="text-lg text-muted-foreground max-w-xl mx-auto mb-10">
-              Explore personalized fitness plans our AI assistant has created for other users
-            </p>
-          </div>
         </div>
 
         {/* CTA section */}
